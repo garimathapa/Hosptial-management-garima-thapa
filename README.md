@@ -1,1 +1,1 @@
-# Hosptial-management-garima-thapa
+# Hosptial Management
